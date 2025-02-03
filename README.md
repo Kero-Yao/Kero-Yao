@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/bilibili-1043729351-%2300A1D6?style=flat&logo=QQ&logoColor=%231EBAFC&logoSize=auto&label=%20QQ&labelColor=%23FFFFFF&color=%231EBAFC&cacheSeconds=36000" />
 </p>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kero-Yao&show_icons=true&theme=transparent&hide_border=true)[![GitHub Streak](https://streak-stats.demolab.com?user=Kero-Yao&theme=cobalt&hide_border=%E7%9C%9F%E7%9A%84&short_numbers=%E9%94%99%E8%AF%AF%E7%9A%84&hide_border=true)](https://git.io/streak-stats)[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kero-Yao&theme=github&bg_color=transparent&color=808080)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kero-Yao&show_icons=true&theme=transparent&hide_border=true&size=small)[![GitHub Streak](https://streak-stats.demolab.com?user=Kero-Yao&theme=cobalt&hide_border=%E7%9C%9F%E7%9A%84&short_numbers=%E9%94%99%E8%AF%AF%E7%9A%84&hide_border=true)](https://git.io/streak-stats)[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kero-Yao&theme=github&bg_color=transparent&color=808080)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Kero-Yao&theme=flat"> </div>
