@@ -39,6 +39,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kero-Yao&layout=compact&theme=default)
 
+![暗色](https://raw.githubusercontent.com/Kero-Yao/snake/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/Kero-Yao/snake/output/github-contribution-grid-snake.svg)
 
 
 </p>
