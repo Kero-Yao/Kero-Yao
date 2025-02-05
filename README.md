@@ -39,8 +39,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kero-Yao&layout=compact&theme=default)
 
-![Snake animation](https://github.com/Kero-Yao/Kero-Yao/blob/output/github-contribution-grid-snake.svg)
-
 
 
 </p>
